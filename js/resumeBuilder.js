@@ -2,8 +2,8 @@ var bio = {
     "name": "Vittal S Prabhu",
     "role": "Systems Engineer at Infosys",
     "contacts": {
-        "mobile": "+91-997-254-5070",
-        "email": "vittalsprabhu@gmail.com",
+        "mobile": "+91-***-***-****",
+        "email": "vitt****u@gmail.com",
         "github": "Vittal-Prabhu",
         "linkedin": "linkedin.com/in/vittalsprabhu",
         "location": "Chennai"
