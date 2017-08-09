@@ -95,7 +95,7 @@ a {
 .welcome-message {
   font-style: italic;
   font-size: 18px;
-  color: #f3f3f3;
+  color: #e0b3ff;
   line-height: 28px;
 }
 
@@ -129,7 +129,7 @@ a {
 
 /* TODO: Replace with image later */
 #header {
-  background-color: #484848;
+  background-color: #000080;
 }
 
 .flex-box {
@@ -169,6 +169,7 @@ img {
 
 span {
   padding: 5px;
+  color: #b3b3ff;
 }
 
 #lets-connect {
