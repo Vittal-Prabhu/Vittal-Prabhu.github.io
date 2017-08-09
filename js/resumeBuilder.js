@@ -10,7 +10,7 @@ var bio = {
     },
     "welcomeMessage": "",
     "skills": ["Programing Languages: C, JAVA, Python, HTML5, CSS3, JS, AngularJS", "Programming PLC in TwinCat and IndraLogic", "Database: MYSQL", "CAD Tools: SolidWorks"],
-    "biopic": "images/Vittal.jpg"
+    "biopic": "images/Vittal.JPG"
         //Image Source: Vittal S Prabhu
 };
 
