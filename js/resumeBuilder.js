@@ -51,7 +51,7 @@ var projects = {
         "title": "Industrial Grade 3D Printer",
         "dates": "Jan 2016 - April 2016",
         "description": "3D printer capable of printing a prototype with estimated maximum printing size of 1x0.5x0.5 metres",
-        "images": ["images/printer1.JPG", "images/printer2.JPG"]
+        "images": ["images/Printer1.JPG", "images/Printer2.JPG"]
             //Image Source: 3D Model by Vittal Prabhu as part of capstone project for A&R branch of BVBCET
     }, {
         "title": "Redesign control system for Proline Mechatronic System",
