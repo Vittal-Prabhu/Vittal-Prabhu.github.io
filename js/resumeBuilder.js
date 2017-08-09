@@ -51,7 +51,7 @@ var projects = {
         "title": "Industrial Grade 3D Printer",
         "dates": "Jan 2016 - April 2016",
         "description": "3D printer capable of printing a prototype with estimated maximum printing size of 1x0.5x0.5 metres",
-        "images": ["images/printer1.jpg", "images/printer2.jpg"]
+        "images": ["images/printer1.JPG", "images/printer2.JPG"]
             //Image Source: 3D Model by Vittal Prabhu as part of capstone project for A&R branch of BVBCET
     }, {
         "title": "Redesign control system for Proline Mechatronic System",
@@ -69,7 +69,7 @@ var projects = {
         "title": "Portable Charger for charging mobile using mechanical energy",
         "dates": "February 2014 - April 2014",
         "description": "Design an electro-mechanical charging device which can be used to charge mobile phones. The device has to be portable, easy to hand-carry. The device has to be an electro-mechanical device",
-        "images": ["images/ShoeCharger2.jpg", "images/ShoeCharger1.jpg"]
+        "images": ["images/ShoeCharger2.JPG", "images/ShoeCharger1.JPG"]
             //Image Source: Developed as part of Mini project for A&R branch of BVBCET by Vittal Prabhu 
     }]
 };
